@@ -9,6 +9,6 @@ context school{
     }
     entity subjects{
         subject_id:Int16;
-        sub_name:String(30);
+        sub_name:String(15);
     }
 }
