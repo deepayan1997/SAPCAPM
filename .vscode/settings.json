@@ -5,6 +5,12 @@
             "driver": "SQLite",
             "name": "School_Db",
             "database": "${workspaceFolder:projects}/capproject/db.sqlite"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "ITEIO DB",
+            "database": "${workspaceFolder:projects}/project2/db.sqlite"
         }
     ]
 }

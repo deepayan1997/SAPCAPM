@@ -1,7 +1,7 @@
-namespace Iteio.db;
+namespace anubhav.db;
 
 using { cuid, managed, temporal, Currency } from '@sap/cds/common';
-using { Iteio.common } from './commons';
+using { anubhav.common } from './commons';
 
 context master {
     
